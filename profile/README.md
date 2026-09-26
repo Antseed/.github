@@ -1,4 +1,4 @@
-# AntSeed
+# Antseed
 
 **The open market for AI inference. No gatekeepers.**
 
