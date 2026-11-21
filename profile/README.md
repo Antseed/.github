@@ -4,7 +4,7 @@ Antseed is the open intelligence network. Anyone can provide AI directly to buye
 
 We're building the world's largest inference liquidity network, where anyone can supply intelligence and everyone can access it.
 
-[Website](https://antseed.com) &middot; [Docs](https://antseed.com/docs) &middot; [Light Paper](https://antseed.com/docs/lightpaper) &middot; [X](https://x.com/AntSeed) &middot; [GitHub](https://github.com/AntSeed/antseed)
+[Website](https://antseed.com) &middot; [Docs](https://antseed.com/docs) &middot; [X](https://x.com/AntSeed) &middot; [GitHub](https://github.com/AntSeed/antseed)
 
 ---
 
