@@ -1,10 +1,10 @@
 # Antseed
 
-**The open market for AI inference. No gatekeepers.**
+Antseed is the open intelligence network. Anyone can provide AI directly to buyers. Providers compete for every request, and you choose who serves you. This leads to open access, the best available prices, and privacy on your terms.
 
-A peer-to-peer network for AI services. Anyone can provide — raw inference, skilled agents, TEE-secured environments, routing services — and anyone can consume, directly, with no company in the middle. Discovery via BitTorrent DHT. Transport via WebRTC. Payments settle in USDC on Base.
+We're building the world's largest inference liquidity network, where anyone can supply intelligence and everyone can access it.
 
-[Website](https://antseed.com) &middot; [Docs](https://antseed.com/docs) &middot; [Light Paper](https://antseed.com/docs/lightpaper) &middot; [Twitter](https://x.com/antseedai) &middot; [GitHub](https://github.com/AntSeed/antseed)
+[Website](https://antseed.com) &middot; [Docs](https://antseed.com/docs) &middot; [Light Paper](https://antseed.com/docs/lightpaper) &middot; [X](https://x.com/AntSeed) &middot; [GitHub](https://github.com/AntSeed/antseed)
 
 ---
 
@@ -110,7 +110,7 @@ Anyone can publish a plugin to npm. Two types exist:
 
 **Router plugins** implement `AntseedRouterPlugin` from `@antseed/node` — discover providers, score them, and route buyer requests.
 
-See [Creating Plugins](https://antseed.com/docs/plugins/creating-plugins) for interfaces and walkthroughs.
+See the [Provider plugin API](https://antseed.com/docs/provider-api/) and [Router plugin API](https://antseed.com/docs/router-api/) for interfaces and walkthroughs.
 
 ---
 
