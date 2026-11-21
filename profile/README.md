@@ -4,7 +4,7 @@ Antseed is the open intelligence network. Anyone can provide AI directly to buye
 
 We're building the world's largest inference liquidity network, where anyone can supply intelligence and everyone can access it.
 
-[Website](https://antseed.com) &middot; [Docs](https://antseed.com/docs) &middot; [X](https://x.com/AntSeed) &middot; [GitHub](https://github.com/AntSeed/antseed)
+[Website](https://antseed.com) &middot; [Docs](https://antseed.com/docs) &middot; [X](https://x.com/Antseed) &middot; [GitHub](https://github.com/Antseed/antseed)
 
 ---
 
@@ -24,7 +24,7 @@ Your Tool (Claude Code, Codex, curl)
   Upstream AI API
 ```
 
-> **Provider Compliance:** AntSeed is designed for providers who build differentiated services on top of AI APIs — not for raw resale of API keys or subscription credentials. Subscription-based plugins (`provider-claude-code`, `provider-claude-oauth`) are for local testing only. Providers are responsible for complying with their upstream API provider's terms of service.
+> **Provider Compliance:** Antseed is designed for providers who build differentiated services on top of AI APIs — not for raw resale of API keys or subscription credentials. Subscription-based plugins (`provider-claude-code`, `provider-claude-oauth`) are for local testing only. Providers are responsible for complying with their upstream API provider's terms of service.
 
 ---
 
@@ -129,4 +129,4 @@ pnpm run typecheck      # Type-check all packages
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/AntSeed/.github/blob/main/CONTRIBUTING.md).
+See [CONTRIBUTING.md](https://github.com/Antseed/.github/blob/main/CONTRIBUTING.md).
